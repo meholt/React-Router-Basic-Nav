@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { Route } from 'react-router-dom';
-import { Navigation } from '../../src/components';
+import { Home, About, Contact, Navigation } from './components';
 
 function App() {
   return (
